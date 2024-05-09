@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">pagina</string>
+    <string name="title_activity_crearcuenta">crearcuenta</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+
+    </string>
+    <string name="title_activity_texto">texto</string>
+    <string name="boton_salir">Salir</string>//parte principal
+    <string name="boton_voz">Texto a Voz</string>//parte principal
+    <string name="boton_Guardar">Guardar</string>//parte principal
+    <string name="boton_habla">Hablar</string>//parte principal
+    <string name="boton_crear">Crear Cuenta</string>//parte principal
+
+
+</resources>
